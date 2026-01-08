@@ -6,10 +6,17 @@ Suite of bash scripts to block major tech companies' domains, IPs, services, tra
 
 Each script targets one company:
 - `anticrack-google.sh`: Blocks Google domains (e.g., google.com, doubleclick.net), IP ranges, removes packages (e.g., google-chrome-stable, chromium), sets non-Google DNS.
+
 - `anticrack-microsoft.sh`: Blocks Microsoft domains (e.g., telemetry, azure), IP ranges, removes packages (e.g., microsoft-edge-stable, teams, code), sets non-Microsoft DNS.
+
 - `anticrack-amazon.sh`: Blocks Amazon domains (e.g., AWS trackers), IP ranges, removes packages (e.g., aws-cli), sets non-Amazon DNS.
 
+- `anticrack-facebook.sh`: Blocks Meta domains (e.g., facebook.com, instagram.com), IP ranges, removes packages (e.g., meta*, facebook*), sets non-Meta DNS.
+
 Scripts use /etc/hosts for domain redirection to 0.0.0.0, iptables for IP blocking, apt for package purge. Toggleable with enable/disable commands.
+
+![gaj](https://github.com/user-attachments/assets/673bd551-b7c6-45a0-9946-96acfcf8b092)
+
 
 ## Requirements
 
