@@ -1,6 +1,6 @@
 # Anticrack
 
-Suite of bash scripts to block major tech companies' domains, IPs, services, tracking, and software on Debian Linux systems. Prevents surveillance, adware, and asset operation from Google, Microsoft, and Amazon.
+Suite of bash scripts to block major tech companies' domains, IPs, services, tracking, and software on Debian Linux systems. Prevents surveillance, adware, and asset operation from Google, Microsoft, Amazon, and Facebook.
 
 ## Overview
 
