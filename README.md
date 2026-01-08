@@ -24,6 +24,7 @@ Backup configs/iptables/nftables before use. Update threat lists periodically. T
 ---
 ![armybanner](https://github.com/user-attachments/assets/12e92da4-1c24-4446-b0b9-08bfccb2cc59)
 <img width="960" height="295" alt="ciasuper" src="https://github.com/user-attachments/assets/203c86fb-a11f-488f-b3f8-620978b4b6ae" />
+![nwl](https://github.com/user-attachments/assets/0ec5c1d6-6c40-4743-832f-dad6e131f524)
 
 
 ## License
