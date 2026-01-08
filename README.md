@@ -22,6 +22,7 @@ For entity scripts: `./anticrack-[entity].sh enable` or `disable`.
 
 Backup configs/iptables/nftables before use. Update threat lists periodically. Test in VM; may disrupt connectivity.
 ---
-![armybanner](https://github.com/user-attachments/assets/12e92da4-1c24-4446-b0b9-08bfccb2cc59)
+![armybanner](https://github.com/user-attachments/assets/12e92da4-1c24-4446-b0b9-08bfccb2cc59)![BRFG6FA4_400x400](https://github.com/user-attachments/assets/3375aab0-6cc9-46a5-bc1f-3ea04d53ef9b)
+
 ## License
 GPL-3.0
