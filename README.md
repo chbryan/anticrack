@@ -22,13 +22,6 @@ For entity scripts: `./anticrack-[entity].sh enable` or `disable`.
 
 Backup configs/iptables/nftables before use. Update threat lists periodically. Test in VM; may disrupt connectivity.
 ---
-![Army_star](https://github.com/user-attachments/assets/bb632695-e2c5-42eb-8c1f-f9a9fe59bd3e)
-
-
+![armybanner](https://github.com/user-attachments/assets/12e92da4-1c24-4446-b0b9-08bfccb2cc59)
 ## License
-
 GPL-3.0
-
-## About
-
-Suite of bash scripts to block major tech companies and countries' domains, IPs, services, tracking, and software on Linux systems. Prevents surveillance and asset operation. Beta unifies features for WW3-themed global lockdown.
