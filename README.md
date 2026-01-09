@@ -9,6 +9,7 @@ anticrack-beta0.sh: Initial beta unified script. Blocks enemy country IP ranges 
 Separate entity scripts (e.g., anticrack-google.sh) remain for targeted blocking: domains to 0.0.0.0, IP ranges via iptables, package removal, DNS changes. Toggle with enable/disable.
 
 ## Requirements
+![petey](https://github.com/user-attachments/assets/02e8cdc7-4ba2-43ec-8055-17e1d22ae2b2)
 
 Linux.  
 Root access.  
